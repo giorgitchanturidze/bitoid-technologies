@@ -1,4 +1,8 @@
 # bitoid-technologies
+GitHub Pages
+
+[Main Page](https://giorgitchanturidze.github.io/bitoid-technologies/src/index.html)
+
 npx tailwindcss --input src/input.css --output dist/output.css --watch
 ```
 npm run dev
