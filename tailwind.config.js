@@ -2,7 +2,14 @@
 module.exports = {
   content: ["./*.{html,js}", "./src/**/*.{html,js}"],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        "bitoid": "#180E2E",
+        "bitoid-hover": "#5E576D",
+      }
+    },
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/aspect-ratio'),
+  ],
 }
