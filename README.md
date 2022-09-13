@@ -1,7 +1,7 @@
 # bitoid-technologies
 GitHub Pages
 
-[Main Page](https://giorgitchanturidze.github.io/bitoid-technologies/src/index.html)
+[Main Page](https://giorgitchanturidze.github.io/bitoid-technologies)
 
 npx tailwindcss --input src/input.css --output dist/output.css --watch
 ```
